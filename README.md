@@ -1,2 +1,4 @@
 # hello_world
-beginner
+
+Hi!!
+Welcome to the Github
